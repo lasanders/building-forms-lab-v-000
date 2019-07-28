@@ -22,8 +22,4 @@ return {
 }
 }
 
-<<<<<<< HEAD
 export default connect(mapStateToProps)(BandsContainer);
-=======
-export default connect(mapStateToProps)(BandContainer);
->>>>>>> 5c439d991c8c4adab78c7685098d44f5a1a6e5eb
