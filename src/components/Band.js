@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bands = props => {
   return (
-    <li>{props.text}</li>
+    <li>{props.name}</li>
   );
 };
 
